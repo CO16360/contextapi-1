@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import UserContext, {UserConsumer} from './UserContext'
-import ComponentB from './ComponentB';
+import  {UserConsumer} from './UserContext'
+
 
 export default class ComponentC extends Component {
     render() {
